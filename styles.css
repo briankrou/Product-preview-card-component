@@ -139,8 +139,8 @@ main {
 @media (min-width: 768px) {
   .card {
     flex-direction: row;
-    width: 32rem;
-    height: 22rem;
+    width: 35rem;
+    height: 25rem;
   }
   .card-image {
     height: auto;
