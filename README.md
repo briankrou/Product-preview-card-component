@@ -18,10 +18,8 @@ Your users should be able to:
 
 
 
-## Deploying your project
+## Project
 
-As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
-
-- [GitHub Pages](https://github.com/briankrou/Product-preview-card-component)
+- [View in GitHub](https://github.com/briankrou/Product-preview-card-component)
 - [view page](https://briankrou.github.io/Product-preview-card-component/)
 
